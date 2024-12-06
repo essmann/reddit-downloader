@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDhDaZtsuYc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Essmann\\source\\repos\\Reddit-Downloader\\Reddit-Downloader\\Reddit-Downloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Essmann\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
+    "C:\\Users\\Essmann\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\Essmann\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}
