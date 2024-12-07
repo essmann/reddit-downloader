@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reddit-Downloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+031c917ba4a2cdd819f85aeb14c866ed335a2120")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8e186755db51552e8c9886940c2234436625190")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reddit-Downloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reddit-Downloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

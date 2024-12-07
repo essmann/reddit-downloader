@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html dir='ltr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://mb-5ja.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Points of Interests (POI) - Atom" href="https://mb-5ja.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Points of Interests (POI) - RSS" href="https://mb-5ja.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Points of Interests (POI) - Atom" href="https://www.blogger.com/feeds/5947770816196851633/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Points of Interests (POI) - Atom" href="https://mb-5ja.blogspot.com/feeds/5377155921972312334/comments/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s320/Sygic+GE.jpg' rel='image_src'/>
+<meta content='http://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html' property='og:url'/>
+<meta content='Hrvaška GATSO-CORDON speedcams (2024)' property='og:title'/>
+<meta content='Stacionarni-fiksni radarji GATSO/CORDON za naprave/aplikacije Garmin, iGO/Primo/Nextgen      Zgodovina popravkov: 01.12.2024 dodane lokacije...' property='og:description'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/w1200-h630-p-k-no-nu/Sygic+GE.jpg' property='og:image'/>
+<title>Points of Interests (POI): Hrvaška GATSO-CORDON speedcams (2024)</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Blue
+Date:     26 Feb 2004
+Updated by: Blogger Team
+----------------------------------------------- */
+/* Use this with templates/template-twocol.html */
+body {
+background:#113355;
+margin:0;
+color:#cccccc;
+font:x-small "Trebuchet MS", Trebuchet, Verdana, Sans-Serif;
+font-size/* */:/**/small;
+font-size: /**/small;
+text-align: center;
+}
+a:link {
+color:#99bbdd;
+text-decoration:none;
+}
+a:visited {
+color:#aa77aa;
+text-decoration:none;
+}
+a:hover {
+color:#ffcc66;
+text-decoration:underline;
+}
+a img {
+border-width:0;
+}
+/* Header
+-----------------------------------------------
+*/
+#header-wrapper {
+width:660px;
+margin:0 auto 10px;
+border:1px solid #446688;
+}
+#header-inner {
+background-position: center;
+margin-left: auto;
+margin-right: auto;
+}
+#header {
+margin: 5px;
+border: 1px solid #446688;
+text-align: center;
+color:#eeeeee;
+}
+#header h1 {
+margin:5px 5px 0;
+padding:15px 20px .25em;
+line-height:1.2em;
+text-transform:uppercase;
+letter-spacing:.2em;
+font: normal bold 200% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif;
+}
+#header a {
+color:#eeeeee;
+text-decoration:none;
+}
+#header a:hover {
+color:#eeeeee;
+}
+#header .description {
+margin:0 5px 5px;
+padding:0 20px 15px;
+max-width:700px;
+text-transform:uppercase;
+letter-spacing:.2em;
+line-height: 1.4em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Verdana, Sans-serif;
+color: #7799bb;
+}
+#header img {
+margin-left: auto;
+margin-right: auto;
+}
+/* Outer-Wrapper
+----------------------------------------------- */
+#outer-wrapper {
+width: 660px;
+margin:0 auto;
+padding:10px;
+text-align:left;
+font: normal normal 100% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif;
+}
+#main-wrapper {
+width: 410px;
+float: left;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper {
+width: 220px;
+float: right;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+margin:1.5em 0 .75em;
+font:normal bold 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color:#557799;
+}
+/* Posts
+-----------------------------------------------
+*/
+h2.date-header {
+margin:1.5em 0 .5em;
+}
+.post {
+margin:.5em 0 1.5em;
+border-bottom:1px dotted #446688;
+padding-bottom:1.5em;
+}
+.post h3 {
+margin:.25em 0 0;
+padding:0 0 4px;
+font-size:140%;
+font-weight:normal;
+line-height:1.4em;
+color:#ffcc66;
+}
+.post h3 a, .post h3 a:visited, .post h3 strong {
+display:block;
+text-decoration:none;
+color:#ffcc66;
+font-weight:bold;
+}
+.post h3 strong, .post h3 a:hover {
+color:#cccccc;
+}
+.post-body {
+margin:0 0 .75em;
+line-height:1.6em;
+}
+.post-body blockquote {
+line-height:1.3em;
+}
+.post-footer {
+margin: .75em 0;
+color:#557799;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Verdana, Sans-serif;
+line-height: 1.4em;
+}
+.comment-link {
+margin-left:.6em;
+}
+.post img, table.tr-caption-container {
+padding:4px;
+border:1px solid #446688;
+}
+.tr-caption-container img {
+border: none;
+padding: 0;
+}
+.post blockquote {
+margin:1em 20px;
+}
+.post blockquote p {
+margin:.75em 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+margin:1em 0;
+font-weight: bold;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color: #557799;
+}
+#comments-block {
+margin:1em 0 1.5em;
+line-height:1.6em;
+}
+#comments-block .comment-author {
+margin:.5em 0;
+}
+#comments-block .comment-body {
+margin:.25em 0 0;
+}
+#comments-block .comment-footer {
+margin:-.25em 0 2em;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.1em;
+}
+#comments-block .comment-body p {
+margin:0 0 .75em;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar {
+color: #cccccc;
+line-height: 1.5em;
+}
+.sidebar ul {
+list-style:none;
+margin:0 0 0;
+padding:0 0 0;
+}
+.sidebar li {
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:.25em;
+padding-left:15px;
+text-indent:-15px;
+line-height:1.5em;
+}
+.sidebar .widget, .main .widget {
+border-bottom:1px dotted #446688;
+margin:0 0 1.5em;
+padding:0 0 1.5em;
+}
+.main .Blog {
+border-bottom-width: 0;
+}
+/* Profile
+----------------------------------------------- */
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+padding: 4px;
+border: 1px solid #446688;
+}
+.profile-data {
+margin:0;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Verdana, Sans-serif;
+color: #557799;
+font-weight: bold;
+line-height: 1.6em;
+}
+.profile-datablock {
+margin:.5em 0 .5em;
+}
+.profile-textblock {
+margin: 0.5em 0;
+line-height: 1.6em;
+}
+.profile-link {
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Verdana, Sans-serif;
+text-transform: uppercase;
+letter-spacing: .1em;
+}
+/* Footer
+----------------------------------------------- */
+#footer {
+width:660px;
+clear:both;
+margin:0 auto;
+padding-top:15px;
+line-height: 1.6em;
+text-transform:uppercase;
+letter-spacing:.1em;
+text-align: center;
+}
+
+--></style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=5947770816196851633&amp;zx=a4aeb32b-59fa-4397-b87d-b0234bbe2843' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=5947770816196851633&amp;zx=a4aeb32b-59fa-4397-b87d-b0234bbe2843' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<!-- data-ad-client=ca-pub-3397589111901336 -->
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d5947770816196851633\x26blogName\x3dPoints+of+Interests+(POI)\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://mb-5ja.blogspot.com/search\x26blogLocale\x3dsl\x26v\x3d2\x26homepageUrl\x3dhttps://mb-5ja.blogspot.com/\x26targetPostID\x3d5377155921972312334\x26blogPostOrPageUrl\x3dhttps://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html\x26vt\x3d-7457267879123810627',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe",
+              messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+              messageHandlers: {
+                'blogger-ping': function() {}
+              }
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner' style='background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvQD6zQ_7xa7QMG2jehPu3IpuIi5Hfzz1bR0wt_YZ7SqtcyukcZrH77wbLKm33-fsnxsLL4cMIfQY4FZSqwKosdoE6u7zE2i5d6cUKv1ehNl9mKo6pAe-_riH-7tlVLWTzZn0n4azfYhNi/s1600-r/test.jpg"); background-position: left; width: 640px; min-height: 200px; _height: 200px; background-repeat: no-repeat; '>
+<div class='titlewrapper' style='background: transparent'>
+<h1 class='title' style='background: transparent; border-width: 0px'>
+<a href='https://mb-5ja.blogspot.com/'>
+Points of Interests (POI)
+</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Zbirke točk POI za navigacije v gpx formatu (Garmin Mapsource, Google Zemlja)</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<div id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol no-items section' id='crosscol'></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>sobota, 1. avgust 2015</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s320/Sygic+GE.jpg' itemprop='image_url'/>
+<meta content='5947770816196851633' itemprop='blogId'/>
+<meta content='5377155921972312334' itemprop='postId'/>
+<a name='5377155921972312334'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+Hrvaška GATSO-CORDON speedcams (2024)
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5377155921972312334' itemprop='description articleBody'>
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on">Stacionarni-fiksni radarji GATSO/CORDON za naprave/aplikacije Garmin, iGO/Primo/Nextgen</div><div dir="ltr" style="text-align: left;" trbidi="on"><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">
+  <iframe height="320" src="https://www.google.com/maps/d/u/0/embed?mid=1W8NNPa3GwVfPZnGRlu-ZNlTJUrJYbmDi" width="400"></iframe>
+<br /><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">
+Zgodovina popravkov:</div><div dir="ltr" style="text-align: left;" trbidi="on">01.12.2024 dodane lokacije Gala, Breznica, Podvorec</div><div dir="ltr" style="text-align: left;" trbidi="on">27.11.2024 dodana lokacija Tužno</div><div dir="ltr" style="text-align: left;" trbidi="on">22.11.2024 dodana lokacija Pojatno</div><div dir="ltr" style="text-align: left;" trbidi="on">21.11.2024 dodana lokacija Stubičke Toplice-Ulica Ljube Babića</div><div dir="ltr" style="text-align: left;" trbidi="on">20.11.2024 dodane lokacije Banova Jaruga, Krasica, Cerovlje, Krk-Sveti Vid-Mihojlice, Krk-Bajčići, Mali Lošinj, Banjol, Cvitani, Domašinec, Donji Kukuruzari, Vižinada, Gajana, Kacana, Topusko, Goričan, Gornji Kučan, Hrvatska Kostajnica, Šenkovec-Augusta Šenoe, Makarska-Dubrovačka ulica, Lepoglava-Trakoščanska ulica, Lipovljani, Petrovec, Popovača, Potpićan, Zmiijavci, Runović 413, Runović 153, Bajnice, Dugi Rat, Golubinka, Sumpetar, Ugljan</div><div dir="ltr" style="text-align: left;" trbidi="on">16.11.2024 dodane lokacije Škabrnja, Slobodnica, Cerić, Makarska-Stjepana Ivičevića, Makarska-Ante Starčevića, Motovun</div><div dir="ltr" style="text-align: left;" trbidi="on">10.11.2024 dodane lokacije Cerna-Braće Radić, Cerna-Jurišićeva, Županja-Josipa Juraja Strossmayera</div><div dir="ltr" style="text-align: left;" trbidi="on">05.11.2024 dodana lokacija Žakanje</div><div dir="ltr" style="text-align: left;" trbidi="on">04.11.2024 dodane lokacije Bisko, Osijek-D2, Novi Varoš, Zmijavci, Alilovci, Ruševo, Kadanovci, Poljana</div><div dir="ltr" style="text-align: left;" trbidi="on">09.10.2024 dodane lokacije A7-Jurdani, A7-Kozala, Jurdani</div><div dir="ltr" style="text-align: left;" trbidi="on">01.10.2024 dodane lokacije A7-Sveti Kuzam, Pretetinec, Sračinec, A7-viadukt Sveta Trojica, A6-tunel Veliki Gložac</div><div dir="ltr" style="text-align: left;" trbidi="on">25.09.2024 dodana lokacija A6-Orehovica</div><div dir="ltr" style="text-align: left;" trbidi="on">11.09.2024 dodane lokacije Blato-Črnja Luka, Drniš-Ulica Stjepana Radića, Vela Luka-Potirna, Kloštar Podravski, Karlovac-Ljubljanska</div><div dir="ltr" style="text-align: left;" trbidi="on">04.09.2024 dodane lokacije A4-Sveti Križ, A4-Turčišće, Bjelovar-Slavonska cesta, Sirač</div><div dir="ltr" style="text-align: left;" trbidi="on">02.09.2024 dodane lokacije Donja Šemnica, Drače, Komin</div><div dir="ltr" style="text-align: left;" trbidi="on">23.08.2024 dodani lokaciji Krk-D102, Delnice</div><div dir="ltr" style="text-align: left;" trbidi="on">18.08.2024 dodana lokacija Korčula</div><div dir="ltr" style="text-align: left;" trbidi="on">16.08.2024 dodani lokaciji Plomin, Oporevec</div><div dir="ltr" style="text-align: left;" trbidi="on">15.08.2024 dodani lokaciji Vodice-Ulica Grgurec Ante Kukure, Vodice-Srima, Slano</div><div dir="ltr" style="text-align: left;" trbidi="on">14.08.2024 dodani lokaciji Grabovci, Tar</div><div dir="ltr" style="text-align: left;" trbidi="on">12.08.2024 dodane lokacije Polje Čepić, Podberam, Rijeka-Pećine</div><div dir="ltr" style="text-align: left;" trbidi="on">08.08.2024 dodane lokacije Stari Grad, Selca, Vrpolje, Brela, Šibenik, Dinjiška, Drniš, Bilice, Konjevrate, Turanj, Zemunik Gornji, Donje Biljane, Vir, Rtina, Gračac, Vir1, Vodice-Put Gaćelaza, Prisoje, Novi Vinodolski, Kraljevica, Jovići, Vis, Nerežišća, Vrgorac, Okučani, Bačevac, Pepelana, Crnac, Virovitica-Ulica Matije Gupca, Čilipi, Novi Marof-Varaždinska ulica, Marinići, Buzet, Novi Marof-Zagorska ulica, Dubrovnik-Vukovarska ulica, Dubrovnik-Ulica Ive Dulčića, Lupoglave, Livade</div><div dir="ltr" style="text-align: left;" trbidi="on">12.07.2024 dodana lokacija Vilić Selo</div><div dir="ltr" style="text-align: left;" trbidi="on">09.07.2024 dodane lokacije Dragovci, Blacko, Velika</div><div dir="ltr" style="text-align: left;" trbidi="on">08.07.2024 dodani lokaciji Koprivnica-D2, Slavonski Brod-Sjeverna Vezna Cesta</div><div dir="ltr" style="text-align: left;" trbidi="on">07.07.2024 dodane lokacije Gospić-Bilajska Ulica, Ličko Cerje, Vaganac, Otočac, Gospić-Smiljanska Ulica, Novoselo Trnovačko, Baške Oštarije, Jošani, Slavonski Brod-Ulica Petra Svačića</div><div dir="ltr" style="text-align: left;" trbidi="on">06.07.2024 dodane lokacije Kaštel Štafilić, Kaštel Sučurac, Slavonski Brod-Sjeverna Vezna Cesta</div><div dir="ltr" style="text-align: left;" trbidi="on">05.07.2024 dodana lokacija Donji Andrijevci</div><div dir="ltr" style="text-align: left;" trbidi="on">02.07.2024 dodana lokacija Vrbovec</div><div dir="ltr" style="text-align: left;" trbidi="on">29.06.2024 dodane lokacije Karakašica, Šibenski Most, Muč, Prugovo, Marušići, Mutogras, A2-Djurmanec, Gornje Vratno, Brezje Dravsko</div><div dir="ltr" style="text-align: left;" trbidi="on">16.06.2024 dodane lokacije Tuhovec, Dolnji Macelj, Zadar-Ulica Nikole Tesle, Osijek-Trpimirova</div><div dir="ltr" style="text-align: left;" trbidi="on">18.05.2024 dodani lokaciji Ližnjan, Šišan</div><div dir="ltr" style="text-align: left;" trbidi="on">16.05.2024 dodana lokacija Ivankovo-Ulica žrtava fašizma</div><div dir="ltr" style="text-align: left;" trbidi="on">12.05.2024 dodane lokacije Voćarica, Brestača, Makarska-Vukovarska</div><div dir="ltr" style="text-align: left;" trbidi="on">08.05.2024 dodana lokacija Gornje Mrzlo Polje Mrežničko</div><div dir="ltr" style="text-align: left;" trbidi="on">01.05.2024 dodani lokaciji Hrvace, Potravlje</div><div dir="ltr" style="text-align: left;" trbidi="on">14.04.2024 dodane lokacije Petrinja-Ulica Matije Gupca, Svibovec, Samatovci, Strizivojna, Bilje, Osijek-D2, Našice-Ulica Josipa Jurja Strossmayera, Harkanovci</div><div dir="ltr" style="text-align: left;" trbidi="on">12.04.2024 dodana lokacija Šibenik-D8 (stara)</div><div dir="ltr" style="text-align: left;" trbidi="on">09.04.2024 dodana lokacija A3-istok</div><div dir="ltr" style="text-align: left;" trbidi="on">06.04.2024 dodana lokacija Bogdanovci</div><div dir="ltr" style="text-align: left;" trbidi="on">05.04.2024 dodane lokacije Velika Gorica, Buševec, Zagreb-Ljubljanska avenija, Zagreb-Avenija Dubrava, Stupnik, Zagreb-Jadranska avenija, Zagreb-Zagrebačka avenija, Jablanovec, Šibice, Kupljenovo, Donja Bistrica, Ivanič Grad, Vrbovec, Hrastje, Lukarišće</div><div dir="ltr" style="text-align: left;" trbidi="on">31.03.2024 dodane lokacije Črešnjevo, Gudovac, Ivanska</div><div dir="ltr" style="text-align: left;" trbidi="on">29.03.2024 dodane lokacije Daruvar-Josipa Jelačića, Vinkovci-Borinačka ulica, Kraljevec na Sutli, Pregrada, Đurmanec1, Podgrađe</div><div dir="ltr" style="text-align: left;" trbidi="on">24.03.2024 dodana lokacija Šibenik-D8, Opatovac, Petrovci</div><div dir="ltr" style="text-align: left;" trbidi="on">08.03.2024 dodane lokacije Gračišće, Crikvenica, Vularija, Stancija Roželo, Rogoža, Varaždin-Ulica Zrinskih i Frankopana, Lepoglava-Ulica Ivana Mažuranića</div><div dir="ltr" style="text-align: left;" trbidi="on">28.02.2024 dodana lokacija Vinkovci-obilaznica</div><div dir="ltr" style="text-align: left;" trbidi="on">26.02.2024 dodana lokacija Kistanje</div><div dir="ltr" style="text-align: left;" trbidi="on">22.02.2024 dodane lokacije Pješčana Uvala, Medulin-Banjole, Medulin-Ližnjanska cesta, Medulin-Lidl, Premantura, Flengi</div><div dir="ltr" style="text-align: left;" trbidi="on">11.02.2024 dodane lokacije Županja-Vinkovačka ulica, Cerna, Gradište, Lepoglava-Varaždinska ulica, Lepoglava-Zagorska ulica, Cerje Nebojse, Labin-Kapelica, Koškovec, Hreljin, Lupinjak, Prišlin</div><div dir="ltr" style="text-align: left;" trbidi="on">02.01.2024 dodane lokacije Veliko Trgovišće-D1, Sveti Križ-Začretje, Bobota-Vera</div><div dir="ltr" style="text-align: left;" trbidi="on">12.11.2023 dodana lokacija Rovinj</div><div dir="ltr" style="text-align: left;" trbidi="on">06.11.2023 dodani lokaciji Bili Brig, Donji Lipovac</div><div dir="ltr" style="text-align: left;" trbidi="on">05.11.2023 dodana lokacija Županja-Baruna Trenka</div><div dir="ltr" style="text-align: left;" trbidi="on">31.10.2023 dodana lokacija Batrina</div><div dir="ltr" style="text-align: left;" trbidi="on">26.10.2023 dodane lokacije Kaštelir, Pirovac, Balogovec, Mursko Središče, Cage, brisane lokacije 81,93,187,232,252,355,367,414,415,423</div><div dir="ltr" style="text-align: left;" trbidi="on">25.10.2023 dodane lokacije Đurmanec, Štefanec, Vodnjan 3x, Jurićev Kal, Šag, Sarvaš, Josipovac, Erdut, Tučepi, Petehi</div><div dir="ltr" style="text-align: left;" trbidi="on">30.07.2023 dodani lokaciji Tisno, Opatija-Nova Cesta, popravek Opatija-Volosko</div><div dir="ltr" style="text-align: left;" trbidi="on">29.07.2023 dodani lokaciji Zagreb-Slavonska avenija, Konjščica</div><div dir="ltr" style="text-align: left;" trbidi="on">10.07.2023 dodana lokacija Brodarica</div><div dir="ltr" style="text-align: left;" trbidi="on">30.06.2023 dodana lokacija Vrbanovec</div><div dir="ltr" style="text-align: left;" trbidi="on">29.06.2023 dodani lokaciji Čaporice, Retkovci</div><div dir="ltr" style="text-align: left;" trbidi="on">18.06.2023 dodane lokacije Košute-Trilj, Opatija, Ika, Opatija-Volosko</div><div dir="ltr" style="text-align: left;" trbidi="on">13.06.2023 popravek lokacije GATSO215,Košute</div><div dir="ltr" style="text-align: left;" trbidi="on">11.06.2023 dodane lokacije Kaštelanec, Orehovica, Lonjica, Pušćine</div><div dir="ltr" style="text-align: left;" trbidi="on">28.04.2023 dodana lokacija Vrbovec</div><div dir="ltr" style="text-align: left;" trbidi="on">08.04.2023 dodane lokacije Županja-Ulica Ante Starčevića, Bartolovec, Šemovec, Zamlaka, Varaždin Korpivnička ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">27.03.2023 dodana lokacija Andrijaševci</div><div dir="ltr" style="text-align: left;" trbidi="on">18.03.2023 dodana lokacija Velika Ves</div><div dir="ltr" style="text-align: left;" trbidi="on">10.03.2023 dodani lokaciji Stubička Slatina, Zabrđe</div><div dir="ltr" style="text-align: left;" trbidi="on">25.02.2023 dodane lokacije Semeljci, Vinkovci-Ulica Josipa Kozarca 112, Vinkovci-Nikole Tordinca</div><div dir="ltr" style="text-align: left;" trbidi="on">12.02.2023 dodane lokacije Vinjani Donji, Kalinovac, Pula-Partizanski put, Pula-Ulica Veruda 2x, Pula-Stankovićeva ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">25.12.2022 dodana lokacija Slavonski Brod-Ulica Bože Milanovića</div><div dir="ltr" style="text-align: left;" trbidi="on">17.12.2022 dodane lokacije Budinšćina, Varaždin-Jalkovečka ulica, Ulica Krešimira Filića, Slavonski Brod-Ulica Vida Došena, Požeška ulica, Kerdeni ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">27.11.2022 dodane lokacije Podstrana, Tuhelj, Ljubešćica, Jalžabet, Donja Dubrava, Sveti Martin, Poljička cesta, Grljevac</div><div dir="ltr" style="text-align: left;" trbidi="on">25.09.2022 dodani lokaciji Viškovci, Forkuševci</div><div dir="ltr" style="text-align: left;" trbidi="on">26.08.2022 dodana lokacija Funtana</div><div dir="ltr" style="text-align: left;" trbidi="on">20.08.2022 dodana lokacija A1-tunel Sv. Marko</div><div dir="ltr" style="text-align: left;" trbidi="on">14.08.2022 dodana lokacija Murter-Betina, popravek Stari Slatinik</div><div dir="ltr" style="text-align: left;" trbidi="on">12.08.2022 dodana lokacija Gradec, posodobljena datoteka offlinespeedcams.dat za Sygic</div><div dir="ltr" style="text-align: left;" trbidi="on">06.08.2022 dodana lokacija Marčana</div><div dir="ltr" style="text-align: left;" trbidi="on">03.08.2022 dodane lokacije Dubrava kod Tisna, Senj-Stara cesta, Zabrežani</div><div dir="ltr" style="text-align: left;" trbidi="on">28.07.2022 dodane lokacije Križpolje, Novigrad, Katun Trviški, Tisno</div><div dir="ltr" style="text-align: left;" trbidi="on">22.06.2022 dodani lokaciji Zadvarje, Katuni, popravek Zagvozd</div><div dir="ltr" style="text-align: left;" trbidi="on">09.06.2022 dodana lokacija Belišće</div><div dir="ltr" style="text-align: left;" trbidi="on">03.06.2022 dodana lokacija Bjelovar-Istočna obilaznica</div><div dir="ltr" style="text-align: left;" trbidi="on">30.05.2022 dodana lokacija Carevdar</div><div dir="ltr" style="text-align: left;" trbidi="on">28.05.2022 dodana lokacija Mače</div><div dir="ltr" style="text-align: left;" trbidi="on">27.05.2022 dodani lokaciji Koprivnica-Starogradska ulica, Koprivnica-Ulica Miklinovec</div><div dir="ltr" style="text-align: left;" trbidi="on">25.05.2022 dodane lokacije Križevci-Ulica Ivana Lepušića, Belica, Sinj-Put Piketa, Sinj-Ulica Domovinsko rata, Glavice</div><div dir="ltr" style="text-align: left;" trbidi="on">18.05.2022 dodani lokaciji Rijeka-Brajdica</div><div dir="ltr" style="text-align: left;" trbidi="on">17.05.2022 dodani lokaciji Stari Slatinik, Lovreć</div><div dir="ltr" style="text-align: left;" trbidi="on">13.05.2022 dodani lokaciji Katići, Drnje</div><div dir="ltr" style="text-align: left;" trbidi="on">01.05.2022 dodane lokacije Zagvozd, Cista Velika, Cista Provo, Kukuljanovo, Sinj-Ulica Filipa Grabovca, Brnaze</div><div dir="ltr" style="text-align: left;" trbidi="on">26.03.2022 dodana lokacija Prigorje Brdovečko</div><div dir="ltr" style="text-align: left;" trbidi="on">16.03.2022 dodana lokacija Kunjevci, popravel Petrinja-Vukovarska ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">23.02.2022 dodani lokaciji Ivanovec, Novo Selo Rok, popravek Split-Smokovik</div><div dir="ltr" style="text-align: left;" trbidi="on">19.02.2022<span>&nbsp;dodane lokacije Ernestinovo, Brodski Stupnik, Vinkovci-Josipa Kozarca</span></div><div dir="ltr" style="text-align: left;" trbidi="on">17.02.2022 brisana lokacija Kukuljanovo, dodana lokacija Županja-Ulica Mladena Čatića</div><div dir="ltr" style="text-align: left;" trbidi="on">10.02.2022 dodana lokacija Brdovec</div><div dir="ltr" style="text-align: left;" trbidi="on">01.02.2022 dodana lokacija Zlatar Bistrica</div><div dir="ltr" style="text-align: left;" trbidi="on">26.01.2022 dodana lokacija Petrćane</div><div dir="ltr" style="text-align: left;" trbidi="on">30.12.2021 dodane lokacije Trilj-Domovinskog rata, Svetog Mihovila, Bana Jelačića in Ugljane</div><div dir="ltr" style="text-align: left;" trbidi="on">26.12.2021 dodana lokacija Vrlika</div><div dir="ltr" style="text-align: left;" trbidi="on">16.12.2021 dodana lokacija Stancijeta</div><div dir="ltr" style="text-align: left;" trbidi="on">15.12.2021 dodane lokacije Dugopolje, Kapela, Dračanica, Kožino</div><div dir="ltr" style="text-align: left;" trbidi="on">15.11.2021 testno dodana datoteka za Sygic</div><div dir="ltr" style="text-align: left;" trbidi="on">13.11.2021 dodana lokacija Velić</div><div dir="ltr" style="text-align: left;" trbidi="on">25.10.2021 dodani lokaciji Kuršanec in Savska Ves</div><div dir="ltr" style="text-align: left;" trbidi="on">20.10.2021 dodani lokaciji Rijeka-Kozala in Ulica braće Hlača</div><div dir="ltr" style="text-align: left;" trbidi="on">21.09.2021 brisana lokacija Crikvenica-Selce, Rijeka-tunel Pećine</div><div dir="ltr" style="text-align: left;" trbidi="on">14.09.2021 brisani lokaciji Šibenik in Vinkovci-Josipa Kozarca, popravek omejitve Šibenik-Dubrava, dodana lokacija Stari Mikanovci</div><div dir="ltr" style="text-align: left;" trbidi="on">31.08.2021 dodana lokacija Žminj</div><div dir="ltr" style="text-align: left;" trbidi="on">29.08.2021 popravki lokacij Zadar, dodani lokaciji Crno in Barban</div><div dir="ltr" style="text-align: left;" trbidi="on">15.06.2021 dodana lokacija Lovas</div><div dir="ltr" style="text-align: left;" trbidi="on">08.06.2021 dodana lokacija Donji Kraljevec</div><div dir="ltr" style="text-align: left;" trbidi="on">05.06.2021 dodana lokacija Čiovo-Cesta Domovinske Zahvalnosti</div><div dir="ltr" style="text-align: left;" trbidi="on">04.06.2021 brisani lokaciji Sveti Ivan Žabno, Split-Bilice</div><div dir="ltr" style="text-align: left;" trbidi="on">02.06.2021 dodani lokaciji Štrukovec, Mursko Središće-Martinska ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">27.05.2021 dodana lokacija Prvan Selo, brisana lokacija Rijeka-Brajdica</div><div dir="ltr" style="text-align: left;" trbidi="on">24.05.2021 dodana lokacija Štitar</div><div dir="ltr" style="text-align: left;" trbidi="on">12.05.2021 popravek omejitve Opatija-Nova cesta, dodana lokacija Ičići</div><div dir="ltr" style="text-align: left;" trbidi="on">06.05.2021 dodani lokaciji Ivanec, Opatija-Nova cesta</div><div dir="ltr" style="text-align: left;" trbidi="on">20.04.2021 dodani lokaciji Slavonski Brod-Splavarska ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">19.04.2021 dodani lokaciji Rožat, Otok-Ulica Ivana Pavla II., Stara Mokošica</div><div dir="ltr" style="text-align: left;" trbidi="on">09.04.2021 dodane lokacije Nedelišće-Vladimira Nazora, Gornji Hrašćan, Pušćine, Strahoninec-Dravska ulica, Prelog-Ulica Zrinskih</div><div dir="ltr" style="text-align: left;" trbidi="on">27.03.2021 dodane lokacije Križevci-Ulica Ivana Gundulića, Ulica branitelja Hrvatske, Bojnikovec</div><div dir="ltr" style="text-align: left;" trbidi="on">21.02.2021 dodana lokacija Kaštel Lukšić</div><div dir="ltr" style="text-align: left;" trbidi="on">17.01.2021 popravki omejitev Rijeka</div><div dir="ltr" style="text-align: left;" trbidi="on">15.01.2021 dodani lokaciji Cavtat, Zvekovica</div><div dir="ltr" style="text-align: left;" trbidi="on">14.01.2021 dodani lokaciji Gala in Otok-Ulica Alojzija Stepinca</div><div dir="ltr" style="text-align: left;" trbidi="on">01.01.2021 dodane bodoče lokacije (9) v Zadru, Splitska ulica, Benkovaćka cesta, Ulica braće Miroslava i Janka Perice, Ulica Benka Benkovića, Ulica dr. Franje Tuđmana, Ulica Hrvatskog sabora, Ulica Antuna Gustava Matoša, Put Bokanjca, Ulica Bregdetti</div><div dir="ltr" style="text-align: left;" trbidi="on">30.12.2020 dodana lokacija Križevci-Kalnička ulica</div><div dir="ltr" style="text-align: left;" trbidi="on">29.12.2020 dodane lokacije Zadar-Put Vrela, Zadar-Ulica Ante Starčevića, Zadar-Obala kneza Trpimira</div><div dir="ltr" style="text-align: left;" trbidi="on">23.12.2020 dodana lokacija Split-Ulica Hrvatske mornarice</div><div dir="ltr" style="text-align: left;" trbidi="on">02.12.2020 preselitev kamere Cvetkovec v Gola</div><div dir="ltr" style="text-align: left;" trbidi="on">18.11.2020 dodana lokacija Kijevo</div><div dir="ltr" style="text-align: left;" trbidi="on">09.11.2020 preselitev kamere Vinkovci-Lapovačka ulica na Šokačka ulica, dodane lokacije Veleškovec, Retkovci, Ivankovo-Ulica Rojičani, popravek omejitve Šibenik</div><div dir="ltr" style="text-align: left;" trbidi="on">25.09.2020 dodana lokacija Koretinec</div><div dir="ltr" style="text-align: left;" trbidi="on">13.09.2020 dodana lokacija Jurketinec</div><div dir="ltr" style="text-align: left;" trbidi="on">21.08.2020 popravek omejitve Eminovci</div><div dir="ltr" style="text-align: left;" trbidi="on">17.08.2020 popravek lokacije Josipdol</div><div dir="ltr" style="text-align: left;" trbidi="on">16.08.2020 popravek lokacije Križevci</div><div dir="ltr" style="text-align: left;" trbidi="on">15.08.2020 dodane lokacije Zalužnica, Vrhovine, Babin Potok</div><div dir="ltr" style="text-align: left;" trbidi="on">14.08.2020 dodana lokacija Horvatsko</div><div dir="ltr" style="text-align: left;" trbidi="on">08.08.2020 dodani dve lokaciji Križevci</div><div dir="ltr" style="text-align: left;" trbidi="on">06.08.2020 popravek lokacije in omejitve Budenec</div><div dir="ltr" style="text-align: left;" trbidi="on">01.08.2020 brisana lokacija Bosiljevo&nbsp;<br />
+01.07.2020 dodana lokacija Budenec<br />
+28.06.2020 popravek omejitve Galižana, popravek lokacije Kupljenovo<br />
+17.06.2020 popravek Osijek, dodana lokacija Kupljenovo<br />
+21.05.2020 dodana lokacija Donji Proložac<br />
+17.05.2020 dodana lokacija Gospić-Kaniška ulica<br />
+16.05.2020 dodani lokaciji Vidovec, Cargovec, Knin-Ulica kneza Trpimira<br />
+15.05.2020 dodana lokacija Vukovar-Bana Josipa Jelačića<br />
+14.05.2020 dodana lokacija Vukovar-Dvanaest redarstvenika<br />
+22.04.2020 popravek Brinje<br />
+21.03.2020 popravek omejitve Sibinj<br />
+12.03.2020 dodana lokacija Ilok<br />
+09.03.2020 dodani lokaciji Šarengrad, Mohovo<br />
+07.03.2020 dodana lokacija Marinci<br />
+05.03.2020 dodana lokacija Nuštar<br />
+29.02.2020 dodana lokacija Sikirevci<br />
+05.02.2020 dodana lokacija Zagreb-Ilica, Brinje<br />
+27.01.2020 dodana lokacija Knin-Ulica 4. gardijske brigade<br />
+31.12.2019 dodana lokacija Kukuljanovo, Ogulin-Stara cesta<br />
+27.12.2019 popravek Gradište<br />
+21.12.2019 dodana lokacija Vinkovci-Hansa Dietricha Genschera, brisana Josipdol-Gradina<br />
+20.12.2019 dodane lokacije Ivankovo, Prkovci, Vinkovci-Alojzija Stepinca, Vinkovci-Ulica kralja Zvonimira, Vinkovci-Lapovačka ulica<br />
+17.12.2019 dodana lokacija Seline<br />
+09.12.2019 dodana lokacija Baćin Dol<br />
+06.12.2019 dodane lokacije Rešetari, Sulkovci, Vidovci, popravek Slavonski Brod-Osječka ulica<br />
+05.12.2019 dodane lokacije Vinkovci-Kunjevci, Vinkovci-Josipa Kozarca, Lipik-ulica Ante Starčevića, Slavonski Brod-Osječka ulica, Ivankovo-Ulica Gorjani, Vukovar-Priljevo<br />
+01.12.2019 odstranjena lokacija Kukuljanovo<br />
+27.11.2019 dodana lokacija Poljica<br />
+24.11.2019 dodana lokacija Košute<br />
+22.11.2019 dodana lokacija Kupari, Dubrovnik<br />
+21.11.2019 dodane lokacije Valbandon, Šibenik, Grebaštica<br />
+19.11.2019 popravek Juršići<br />
+18.11.2019 dodani lokaciji Galižana in Debeljuhi<br />
+15.11.2019 dodana lokacija Trogir<br />
+10.11.2019 dodana lokacija Rijeka, Brajdovica<br />
+27.10.2019 popravek lokacije, Feričanci<br />
+12.09.2019 dodana lokacija Križanec, Zagrebačka ulica<br />
+13.08.2019 dodana lokacija Zagreb, Ulica Izidora Kršnjavog<br />
+31.07:2019 popravek Zaprešić, Bosiljevo, Prespa<br />
+20.07.2019 popravek Čeglje, Turanj<br />
+19.07.2019 popravki imen v Garmin bazi<br />
+18.07.2019 popravek Korenica, Bibinje, Zadar, Vodice obvoznica, Biograd<br />
+10.07.2019 popravek baze za Sygic<br />
+03.07.2019 dodana lokacija A1 Bosiljevo<br />
+23.03.2019 brisani lokaciji Ivanec Bistranski, dodana datoteka za Sygic, popravljena imena<br />
+20.06.2019 popravek Vinkovci<br />
+11.06.2019 dodana lokacija, Plano<br />
+07.06.2019 popravek Draganići<br />
+06.06.2019 popravki v PU Zagreb<br />
+05.06.2019 popravek Pitomača, Virovitica<br />
+04.06.2019 popravki vseh lokacij v Splitu<br />
+02.06.2019 popravek lokacije, Zagreb, Slavonska avenija<br />
+31.05.2019 dodana lokacija, Zagreb, prilaz baruna Filipovića<br />
+16.05.2019 popravljeni lokaciji, Vodice obvoznica 2x<br /><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">1.</div><div dir="ltr" style="text-align: left;" trbidi="on">
+Navodilo za naprave Garmin:<br />
+<br />
+Datoteko <b><u>CRO-GATSO.gpi</u></b>&nbsp;prekopiraj:<br />
+<br />
+- v napravo v mapo \Garmin\POI\ ali<br />
+- na spominsko kartico v mapo \Garmin\POI\<br />
+(po potrebi ustvari mapo POI, če še ne obstaja na napravi).<br />
+<br />
+- dodana še datoteka v formatu .gpx (samo za POI Loader) za potrebe konvertiranja za druge sisteme in ogled v programu Mapsource/Basecamp<br />
+<br />
+2.<br />
+Navodilo za naprave Primo/Nextgen:<br />
+<br />
+Datoteko <b>CRO-GATSO-IGO-NEXTGEN-DIRECTION.txt </b>(za novejše Primo/Nextgen)<b>&nbsp;</b>skopirati na napravo ali kartico, kjer se nahaja app v mapo iGO/Primo/Nextgen\content\speedcam\ (ali ustrezno drugo, kjer je vsebina).<br />
+<br />
+Datoteka CRO-GATSO-IGO-NEXTGEN-DIRECTION.txt vsebuje smeri/kote merjenja in je namenjena novejšim napravam/aplikacijam (Primo/Nextgen).<br />
+<br />3.</div><div dir="ltr" style="text-align: left;" trbidi="on">
+<a href="https://drive.google.com/file/d/1MEMeArwO78E_aIj9i-5H_4TjiipfaYgD/view?usp=sharing">povezava-link do CRO-GATSO.rar</a>&nbsp;(uporabi novejši WinRar 5.61+ ali <a href="https://www.7-zip.org/download.html">7Zip</a>)</div><div dir="ltr" style="text-align: left;" trbidi="on"><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">4.</div><div dir="ltr" style="text-align: left;" trbidi="on">Konverter za Sygic&nbsp;<a href="https://github.com/miszellek/SygicOfflineSpeedcams">Sygic Offline Speedcam converter</a></div><div dir="ltr" style="text-align: left;" trbidi="on"><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">Predhodno je potrebno pripraviti/predelati datoteko CRO-GATSO-IGO-NEXTGEN-DIRECTION.txt na način, da se v npr. Excellu izbriše zadnji stolpec (GATSO...)</div><div dir="ltr" style="text-align: left;" trbidi="on"><br /></div><div dir="ltr" style="text-align: left;" trbidi="on"><a href="https://www.mteam7.com/blog/igo2sygic">Navodila za konverter - glej tudi komentarje spodaj na mojem blogu</a><br /></div><div dir="ltr" style="text-align: left;" trbidi="on"><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">Testna datoteka za Sygic (Hrvaška) ---&gt; <a href="https://drive.google.com/file/d/1XRqWANUg6Y9ubmHK5Sgsxh-ksCvBIAOJ/view?usp=sharing">26.10.2023 Sygic - ta_offlinespeedcams.dat</a></div><div dir="ltr" style="text-align: left;" trbidi="on"><br /></div><div dir="ltr" style="text-align: left;" trbidi="on">Navodilo: datoteko ta_offlinespeedcams.dat prekopirajte v: internal_memory/Android/data/com.sygic.aura/files/speedcams</div><div dir="ltr" style="text-align: left;" trbidi="on"><span style="font-family: inherit;"><span style="color: #888888;"><b><br /></b></span></span></div><div dir="ltr" style="text-align: left;" trbidi="on"><span style="font-family: inherit;"><span style="color: #888888;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s1862/Sygic+GE.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="732" data-original-width="1862" height="126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s320/Sygic+GE.jpg" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlVdZ-nmJZdTcXe2_XEV5v3Syr1XNOJfyrGtdHh8Y0ly5ebGrkXM0Eft0HYZ0jwINeW0qSPCF2m_3c9hzEvPkNU5fiU_90WffPzkxLiTwiMJpsI7nu0SJYls-W3vajSGJYw8IFzBMmwq6M/s1134/Sygic.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="253" data-original-width="1134" height="71" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlVdZ-nmJZdTcXe2_XEV5v3Syr1XNOJfyrGtdHh8Y0ly5ebGrkXM0Eft0HYZ0jwINeW0qSPCF2m_3c9hzEvPkNU5fiU_90WffPzkxLiTwiMJpsI7nu0SJYls-W3vajSGJYw8IFzBMmwq6M/s320/Sygic.jpg" width="320" /></a></div><br /></span></span><div class="separator" style="clear: both; text-align: center;"><br /></div>5. Primer: Garmin Oregon 600<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwjqth1InLNGJGlRT8BJdgW3YOKbHKDkpeENurtyjKoqjqAK7crK5HC50mJjRc6K8Iet2V7DrfpgAPVUDzCMjYwGUWeFh0uftylsw1qjW2lpPG4lEl7VvfPkXBo35kUfkXat_9rtOQ7DJ/s1600/36.bmp" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwjqth1InLNGJGlRT8BJdgW3YOKbHKDkpeENurtyjKoqjqAK7crK5HC50mJjRc6K8Iet2V7DrfpgAPVUDzCMjYwGUWeFh0uftylsw1qjW2lpPG4lEl7VvfPkXBo35kUfkXat_9rtOQ7DJ/s320/36.bmp" width="320" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQJGE2N9Yi0fJUrmZg0o24tutS3u7eCYVLtYlXfauiVUblauUU3wGx9Kf9c441USkXER1D6oofjgAlURXeykvO1VW4ryEJaQHHyzVwK_t8rduGbI7_f9FHxn2bWRKfUvQH16H6bbxF_Ipd/s1600/43.bmp" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQJGE2N9Yi0fJUrmZg0o24tutS3u7eCYVLtYlXfauiVUblauUU3wGx9Kf9c441USkXER1D6oofjgAlURXeykvO1VW4ryEJaQHHyzVwK_t8rduGbI7_f9FHxn2bWRKfUvQH16H6bbxF_Ipd/s320/43.bmp" width="320" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzm_VS_dy6DvgSd4YbsOCSLKmUUdTGcipFMtR5P4wWQX2mbmPl3A3vrLiPaHhhe9e-mVTphNKCT0uZfXXlLmbSPI46wHi1eHvDABTkRlE9PfxDJwurgrC6E6jVqoNOZjxBlFhgVXf7ydN/s1600/49.bmp" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzm_VS_dy6DvgSd4YbsOCSLKmUUdTGcipFMtR5P4wWQX2mbmPl3A3vrLiPaHhhe9e-mVTphNKCT0uZfXXlLmbSPI46wHi1eHvDABTkRlE9PfxDJwurgrC6E6jVqoNOZjxBlFhgVXf7ydN/s320/49.bmp" width="320" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO5z9YY7n25bDuE8ukJFK-8cG3oR63mTGEIEweCqtGlZIPrUFwXvjlXtMO8N62h9TKDqujkj3J5lvr26SIoJLfRcdATIoG3IdMt58AhECK1JBkbb8_Cb_rveHv32Ol9IUCut5f8VxWY2C0/s1600/59.bmp" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO5z9YY7n25bDuE8ukJFK-8cG3oR63mTGEIEweCqtGlZIPrUFwXvjlXtMO8N62h9TKDqujkj3J5lvr26SIoJLfRcdATIoG3IdMt58AhECK1JBkbb8_Cb_rveHv32Ol9IUCut5f8VxWY2C0/s320/59.bmp" width="320" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1wWDfapzEOFRsR6idgERfu2BjRu8izydQdY0-VB6x3loyoTnGxLbJUzKMi7dx6LZVEmqgm6mVKX9_EptVafPbrNKDXhKbA2Ueifo_w0BwIFYfli5TfcEQ6GOCzFfv63dwSaFkZQ2qF0Zc/s1600/64.bmp" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1wWDfapzEOFRsR6idgERfu2BjRu8izydQdY0-VB6x3loyoTnGxLbJUzKMi7dx6LZVEmqgm6mVKX9_EptVafPbrNKDXhKbA2Ueifo_w0BwIFYfli5TfcEQ6GOCzFfv63dwSaFkZQ2qF0Zc/s320/64.bmp" width="320" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYcEKdqFMsoLbAaNTEKJ686ggwwM_a0iqzMxch1z-vRSuIj8pqxIFdZ0NK4qLoeTlfsSssx1zrtdOUtv7rTCfvi8Lr_dhJlUzu4AaYXnSaPVQRgSlZwf0u4iVwNw5__hF1RSRqaoqmrt0R/s1600/69.bmp" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYcEKdqFMsoLbAaNTEKJ686ggwwM_a0iqzMxch1z-vRSuIj8pqxIFdZ0NK4qLoeTlfsSssx1zrtdOUtv7rTCfvi8Lr_dhJlUzu4AaYXnSaPVQRgSlZwf0u4iVwNw5__hF1RSRqaoqmrt0R/s320/69.bmp" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;"><br /></div>
+<div class="separator" style="clear: both; text-align: left;">6. Primer novega radarja <a href="http://simicon.com/products/speed-and-traffic-enforcement/cordon-m2/">Cordon M2</a>&nbsp;. Obvoznica Vodice.</div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/_z40DmuWzJc/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/_z40DmuWzJc?feature=player_embedded" width="320"></iframe></div>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/oxJxQvQLaJo/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/oxJxQvQLaJo?feature=player_embedded" style="text-align: left;" width="320"></iframe></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Avtor
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/00555808069831378073' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/00555808069831378073' rel='author' title='author profile'>
+<span itemprop='name'>5JA</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+ob
+<meta content='http://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html' itemprop='url'/>
+<a class='timestamp-link' href='https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2015-08-01T23:04:00+02:00'>23:04</abbr></a>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-547751730'>
+<a href='https://www.blogger.com/post-edit.g?blogID=5947770816196851633&postID=5377155921972312334&from=pencil' title='Urejanje objav'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>14 komentarjev:</h4>
+<div class='comments-content'>
+<script async='async' src='' type='text/javascript'></script>
+<script type='text/javascript'>
+    (function() {
+      var items = null;
+      var msgs = null;
+      var config = {};
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        var text = (entry &&
+                    ((entry.content && entry.content.$t) ||
+                     (entry.summary && entry.summary.$t))) ||
+            '';
+        if (entry && entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + text + '</span>';
+            }
+          }
+        }
+        return text;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+<div id='comment-holder'>
+<div class="comment-thread toplevel-thread"><ol id="top-ra"><li class="comment" id="c8685493842646165135"><div class="avatar-image-container"><img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6bDKqJVpKFCTgMMXHZDuzULJFGdfkSd4KvdTcYRkR_CYmvpzM5db6wLlT-Iw5MzYR4s7cGax1H9U42t9Eqlc1qaNDDhY7ZmrPjsqgGD38kKh5_DWqTUPUZWIx-vabZQ/s45-c/*" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/00555808069831378073" rel="nofollow">5JA</a></cite><span class="icon user blog-author"></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1676205734141#c8685493842646165135">12. februar 2023 ob 13:42</a></span></div><p class="comment-content">Prosim, da se pošilja ali koordinata, naslov, link ali fotografija, da se lahko preveri oz določi točna lokacija. Hvala</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="8685493842646165135">Odgovori</a><span class="item-control blog-admin blog-admin pid-547751730"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=8685493842646165135">Izbriši</a></span></span></div><div class="comment-replies"><div id="c8685493842646165135-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c8685493842646165135-ra" class="thread-chrome thread-expanded"><div></div><div id="c8685493842646165135-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="8685493842646165135">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c8685493842646165135-ce"></div></li><li class="comment" id="c3994854947599643706"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonimni</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1728483962516#c3994854947599643706">9. oktober 2024 ob 16:26</a></span></div><p class="comment-content">Evo link za još 4 kamere, s tim da je u Kadanovcima kod broja 42, a ne 421 (greška u tekstu)<br><br>https://incerummedia.hr/vozaci-oprez-postavljene-su-nove-cetiri-kamere-na-podrucju-pozestine/?fbclid=IwY2xjawFzcZxleHRuA2FlbQIxMQABHVf8GdtRo1-Xz5JL4MsI0EaWuJUPilpZhjqJqB1q4mGb3_FFT-Ob40IugA_aem_tMfPZVnJGGbH0IjjoIV8wA</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="3994854947599643706">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=3994854947599643706">Izbriši</a></span></span></div><div class="comment-replies"><div id="c3994854947599643706-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c3994854947599643706-ra" class="thread-chrome thread-expanded"><div></div><div id="c3994854947599643706-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="3994854947599643706">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c3994854947599643706-ce"></div></li><li class="comment" id="c2889128945002672380"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonimni</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1728549849708#c2889128945002672380">10. oktober 2024 ob 10:44</a></span></div><p class="comment-content">Zadnji popis sa starim i novim lokacijama:<br>https://autonet.bug.hr/propisi/84-nove-lokacije-kamera-za-nadzor-brzine-ima-ih-i-na-autocestama-44102</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="2889128945002672380">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=2889128945002672380">Izbriši</a></span></span></div><div class="comment-replies"><div id="c2889128945002672380-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c2889128945002672380-ra" class="thread-chrome thread-expanded"><div></div><div id="c2889128945002672380-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="2889128945002672380">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c2889128945002672380-ce"></div></li><li class="comment" id="c4643098228660214358"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonimni</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1730247963350#c4643098228660214358">30. oktober 2024 ob 01:26</a></span></div><p class="comment-content">Upravo postavljene još dvije kamere za nadzor brzine na osječkoj južnoj obilaznici<br>D.M.<br>28.10.2024.<br>13:57<br></p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="4643098228660214358">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=4643098228660214358">Izbriši</a></span></span></div><div class="comment-replies"><div id="c4643098228660214358-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c4643098228660214358-ra" class="thread-chrome thread-expanded"><div></div><div id="c4643098228660214358-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="4643098228660214358">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c4643098228660214358-ce"></div></li><li class="comment" id="c5951809295713789762"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonimni</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1730488546346#c5951809295713789762">1. november 2024 ob 20:15</a></span></div><p class="comment-content">Nova kamera<br><br>u blizini: LISKA KRČI 2<br>https://maps.app.goo.gl/zKfU4ujwHk9cHDTF7</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="5951809295713789762">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=5951809295713789762">Izbriši</a></span></span></div><div class="comment-replies"><div id="c5951809295713789762-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c5951809295713789762-ra" class="thread-chrome thread-expanded"><div></div><div id="c5951809295713789762-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="5951809295713789762">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c5951809295713789762-ce"></div></li><li class="comment" id="c804966669644091421"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonimni</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1731169909934#c804966669644091421">9. november 2024 ob 17:31</a></span></div><p class="comment-content">Pozdrav. <br>Nove kamere na sljedećim lokacijama;<br><br>Cerna, Ulica Braće Radić, ograničenje 50 km/h  - 45.198452,18.694937<br><br>Cerna Jurišićeva , ograničenje brzine 50 km/h  - 45.179698,18.692338<br><br>Županja Ulica J.J. Strossmayera , ograničenje brzine 50 km/h - 45.093222,18.697176</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="804966669644091421">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=804966669644091421">Izbriši</a></span></span></div><div class="comment-replies"><div id="c804966669644091421-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c804966669644091421-ra" class="thread-chrome thread-expanded"><div></div><div id="c804966669644091421-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="804966669644091421">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c804966669644091421-ce"></div></li><li class="comment" id="c1712694181956421930"><div class="avatar-image-container"><img src="//www.blogger.com/img/blogger_logo_round_35.png" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/16610721206738879074" rel="nofollow">Doktor</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1731516231958#c1712694181956421930">13. november 2024 ob 17:43</a></span></div><p class="comment-content">Nova kamera<br>Slobodnica<br>45.159411,17.929441<br>50 km/h</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="1712694181956421930">Odgovori</a><span class="item-control blog-admin blog-admin pid-356086260"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=1712694181956421930">Izbriši</a></span></span></div><div class="comment-replies"><div id="c1712694181956421930-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c1712694181956421930-ra" class="thread-chrome thread-expanded"><div></div><div id="c1712694181956421930-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="1712694181956421930">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c1712694181956421930-ce"></div></li><li class="comment" id="c3727981076944167176"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonimni</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1731592383902#c3727981076944167176">14. november 2024 ob 14:53</a></span></div><p class="comment-content">Pozdrav.<br><br>Nova kamera na lokaciji ulica bana Jelačića 42, Cerić<br>45.313593,18.854868</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="3727981076944167176">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=3727981076944167176">Izbriši</a></span></span></div><div class="comment-replies"><div id="c3727981076944167176-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c3727981076944167176-ra" class="thread-chrome thread-expanded"><div></div><div id="c3727981076944167176-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="3727981076944167176">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c3727981076944167176-ce"></div></li><li class="comment" id="c266838954838393263"><div class="avatar-image-container"><img src="//www.blogger.com/img/blogger_logo_round_35.png" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/06074855944051888925" rel="nofollow">tom</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1731845036317#c266838954838393263">17. november 2024 ob 13:03</a></span></div><p class="comment-content">Aleja Bolonje, iza tunela prema Zapresicu nekih cca 200m je kamera.... SAPHE javlja da je, kamera je dal snima neznam....</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="266838954838393263">Odgovori</a><span class="item-control blog-admin blog-admin pid-1386966811"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=266838954838393263">Izbriši</a></span></span></div><div class="comment-replies"><div id="c266838954838393263-rt" class="comment-thread inline-thread"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c266838954838393263-ra" class="thread-chrome thread-expanded"><div><li class="comment" id="c6274827182319763142"><div class="avatar-image-container"><img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6bDKqJVpKFCTgMMXHZDuzULJFGdfkSd4KvdTcYRkR_CYmvpzM5db6wLlT-Iw5MzYR4s7cGax1H9U42t9Eqlc1qaNDDhY7ZmrPjsqgGD38kKh5_DWqTUPUZWIx-vabZQ/s45-c/*" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/00555808069831378073" rel="nofollow">5JA</a></cite><span class="icon user blog-author"></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1731845910343#c6274827182319763142">17. november 2024 ob 13:18</a></span></div><p class="comment-content">treba još vizualna potvrda :) da vidimo</p><span class="comment-actions secondary-text"><span class="item-control blog-admin blog-admin pid-547751730"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=6274827182319763142">Izbriši</a></span></span></div><div class="comment-replies"><div id="c6274827182319763142-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c6274827182319763142-ra" class="thread-chrome thread-expanded"><div></div><div id="c6274827182319763142-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="6274827182319763142">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c6274827182319763142-ce"></div></li></div><div id="c266838954838393263-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="266838954838393263">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c266838954838393263-ce"></div></li><li class="comment" id="c8406457059076897419"><div class="avatar-image-container"><img src="//www.blogger.com/img/blogger_logo_round_35.png" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/16610721206738879074" rel="nofollow">Doktor</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1732135715021#c8406457059076897419">20. november 2024 ob 21:48</a></span></div><p class="comment-content">Kamera u Pleternici se treba ukloniti, ona je premještena u Blacko, jer je na njenom mjestu sada ulaz u trgovački centar pa je izgubila smisao...</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="8406457059076897419">Odgovori</a><span class="item-control blog-admin blog-admin pid-356086260"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=8406457059076897419">Izbriši</a></span></span></div><div class="comment-replies"><div id="c8406457059076897419-rt" class="comment-thread inline-thread"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c8406457059076897419-ra" class="thread-chrome thread-expanded"><div><li class="comment" id="c5284992848393760818"><div class="avatar-image-container"><img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6bDKqJVpKFCTgMMXHZDuzULJFGdfkSd4KvdTcYRkR_CYmvpzM5db6wLlT-Iw5MzYR4s7cGax1H9U42t9Eqlc1qaNDDhY7ZmrPjsqgGD38kKh5_DWqTUPUZWIx-vabZQ/s45-c/*" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/00555808069831378073" rel="nofollow">5JA</a></cite><span class="icon user blog-author"></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1732193100501#c5284992848393760818">21. november 2024 ob 13:45</a></span></div><p class="comment-content">ok :)</p><span class="comment-actions secondary-text"><span class="item-control blog-admin blog-admin pid-547751730"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=5284992848393760818">Izbriši</a></span></span></div><div class="comment-replies"><div id="c5284992848393760818-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c5284992848393760818-ra" class="thread-chrome thread-expanded"><div></div><div id="c5284992848393760818-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="5284992848393760818">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c5284992848393760818-ce"></div></li></div><div id="c8406457059076897419-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="8406457059076897419">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c8406457059076897419-ce"></div></li><li class="comment" id="c3120616185034546723"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Mario_Os</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1732703059595#c3120616185034546723">27. november 2024 ob 11:24</a></span></div><p class="comment-content">Nova kamera, Tužno, N46.260653 E16.249817, 50 km/h</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="3120616185034546723">Odgovori</a><span class="item-control blog-admin blog-admin pid-2104654272"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=3120616185034546723">Izbriši</a></span></span></div><div class="comment-replies"><div id="c3120616185034546723-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c3120616185034546723-ra" class="thread-chrome thread-expanded"><div></div><div id="c3120616185034546723-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="3120616185034546723">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c3120616185034546723-ce"></div></li><li class="comment" id="c5471595432540775739"><div class="avatar-image-container"><img src="//www.blogger.com/img/blogger_logo_round_35.png" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/00676323662505947655" rel="nofollow">Brigado</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html?showComment=1733049785334#c5471595432540775739">1. december 2024 ob 11:43</a></span></div><p class="comment-content">Nova kamera u mjestu Gala, Obrovac Sinjski, N43.725163  E16.704229</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="5471595432540775739">Odgovori</a><span class="item-control blog-admin blog-admin pid-1374170424"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=5947770816196851633&amp;postID=5471595432540775739">Izbriši</a></span></span></div><div class="comment-replies"><div id="c5471595432540775739-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Odgovori</a></span></span><ol id="c5471595432540775739-ra" class="thread-chrome thread-expanded"><div></div><div id="c5471595432540775739-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="5471595432540775739">Odgovori</a></div></ol></div></div><div class="comment-replybox-single" id="c5471595432540775739-ce"></div></li></ol><div id="top-continue" class="continue"><a class="comment-reply" target="_self">Dodaj komentar</a></div><div class="comment-replybox-thread" id="top-ce"></div><div class="loadmore hidden" data-post-id="5377155921972312334"><a target="_self">Naloži več ...</a></div></div>
+</div>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<p>
+</p>
+<a href='https://www.blogger.com/comment/frame/5947770816196851633?po=5377155921972312334&hl=sl' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410px' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<script src='https://www.blogger.com/static/v1/jsbin/2315299244-comment_from_post_iframe.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+<div class='inline-ad'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-3397589111901336";
+    google_ad_host = "ca-host-pub-1556223355139109";
+    google_ad_slot = "8302423435";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- snecer-poi_main_Blog1_300x250_as -->
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://mb-5ja.blogspot.com/2018/06/normandija-d-day-poi-2018.html' id='Blog1_blog-pager-newer-link' title='Novejša objava'>Novejša objava</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://mb-5ja.blogspot.com/2014/02/balkan-grmkkosmnecro-poi-2014.html' id='Blog1_blog-pager-older-link' title='Starejša objava'>Starejša objava</a>
+</span>
+<a class='home-link' href='https://mb-5ja.blogspot.com/'>Domov</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Naročite se na:
+<a class='feed-link' href='https://mb-5ja.blogspot.com/feeds/5377155921972312334/comments/default' target='_blank' type='application/atom+xml'>Objavi komentarje (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget LinkList' data-version='1' id='LinkList1'>
+<h2>Seznam POI</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://MB-5JA.blogspot.com/2011/12/albanija-poi-2012.html'>Albanija POI (2012)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/amsterdam-poi-2005.html'>Amsterdam POI (2005)</a></li>
+<li><a href='https://mb-5ja.blogspot.com/2023/07/anica-kuk-via-ferrata-2023.html'>Anića kuk (ferrata) 2023</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/avstrijska-romanticna-cesta-poi-2011.html'>Avstr. romantična cesta POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/10/balaton-poi-2009.html'>Balaton POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2014/02/balkan-grmkkosmnecro-poi-2014.html'>Balkan-gr-mk-kos-mne-POI (2014)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/cesta-gradov-poi-2011.html'>Cesta gradov POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/chios-poi-2010.html'>Chios POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/col-de-turini-poi-2011.html'>Col de Turini POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/deutsche-alpenstrasse-poi-2011.html'>Deutsche Alpenstrasse POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/dirkalisca-poi-2010.html'>Dirkališča POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/dolomiti-poi-2010.html'>Dolomiti POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/11/donacka-gora-poi-2010.html'>Donačka gora (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/09/dugi-otok-poi-2011.html'>Dugi otok POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/erzberg-poi-2009.html'>Erzberg POI (2009)</a></li>
+<li><a href='https://www.blogger.com/blog/post/edit/5947770816196851633/8387756019591361999'>Ferrata Intersport Donnerkogel (2024)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/01/francoske-alpe-poi-2011.html'>Francoske Alpe POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/09/gesause-nationalpark-poi-2010.html'>Gesause Nationalpark POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/golica-poi-b69-aut_1938.html'>Golica (route B69) POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/11/gr20-poi-2012.html'>Gr20-Korzika POI (2012)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/10/grad-grad-poi-2009.html'>Grad Grad POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/01/gradovi-loare-poi-2011.html'>Gradovi Loare POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2012/10/grcija-peloponez-poi-2013.html'>Grčija-Peloponez POI (2013)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/02/haute-route-poi-2011.html'>Haute Route POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2015/08/hrvaska-poi-2015.html'>Hrvaška GATSO-CORDON speedcams (2024)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2013/01/isle-of-man-tt-poi-2013.html'>Isle of Man-TT POI (2016)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/karpathos-poi-2009.html'>Karpathos POI (2008)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2013/09/kawasaki-poi-2013.html'>Kawasaki POI (2013)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/08/kefalonija-in-itaka-poi-2009.html'>Kefalonija in Itaka POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/08/kolpa-poi-2009.html'>Kolpa POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/korcula-poi-2011.html'>Korčula POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.si/2009/06/korzika-poi-2012.html'>Korzika POI (2016)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/02/krf-poi-2004.html'>Krf POI (2004)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/06/lastovo-poi-2011.html'>Lastovo POI (2018)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/logarska-dolina-poi-2009.html'>Logarska dolina, Okrešelj POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/09/london-poi-2009.html'>London POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/mal-vas-poi-2009.html'>Mala vas POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2012/03/malta-poi-2012.html'>Malta POI (2012)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/12/maribor-rogla-poi.html'>Maribor-Rogla POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/10/mljet-poi-2012.html'>Mljet POI (2012)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/nemska-romanticna-cesta-poi-2011.html'>Nemška romantična cesta POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/nockalmstrasse-poi-2010.html'>Nockalmstrasse POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2018/06/normandija-d-day-poi-2018.html'>Normandija-D Day (2018)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/07/olseva-poi-2009i.html'>Olševa POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/pariz-poi-2005.html'>Pariz POI (2005)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/pohorje-poi-2008.html'>Pohorje POI (2019)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/rogla-slovenj-gradec-poi-2010.html'>Rogla-Slovenj Gradec POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/09/sarajevo-poi-2009.html'>Sarajevo POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/12/sardinija-poi-2011.html'>Sardinija POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/09/slapnik-schladming-poi-2010.html'>Slapnik-Schladming POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/slovenija-poi-2010.html'>Slovenija POI (2024) stacionarni radarji</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/01/srbija-crna-gora-poi-2006.html'>Srbija-Črna Gora POI (2006)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/05/starigrad-paklenica-poi-2010.html'>Starigrad-Paklenica POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2012/04/stelvio-poi-2012.html'>Stelvio POI (2012)</a></li>
+<li><a href='https://mb-5ja.blogspot.com/2023/05/dinara-super-ferata-dinaridi-2023.html'>Super ferata Dinaridi (2023)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/skotska-poi-2005.html'>Škotska POI (2005)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/11/smarjeske-toplice-poi-2010.html'>Šmarješke Toplice POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/05/svica-poi-2011.html'>Švica POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/08/triglav-poi-2009.html'>Triglav POI (2010)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/12/velebit-poi-2010.html'>Velebit POI (2019)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/08/veliki-klek-poi-2009-grossglockner.html'>Veliki Klek-Grossglockner POI (2009)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2010/11/villacher-alpenstrasse-poi-2011.html'>Villacher Alpenstrasse POI (2011)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2009/06/vis-poi-2008.html'>Vis POI (2019)</a></li>
+<li><a href='http://MB-5JA.blogspot.com/2011/02/wildalpen-poi-2011.html'>Wildalpen POI (2011)</a></li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget ContactForm' data-version='1' id='ContactForm1'>
+<h2 class='title'>Sporoči točko POI/radar/speedcam</h2>
+<div class='contact-form-widget'>
+<div class='form'>
+<form name='contact-form'>
+<p></p>
+Ime
+<br/>
+<input class='contact-form-name' id='ContactForm1_contact-form-name' name='name' size='30' type='text' value=''/>
+<p></p>
+E-pošta
+<span style='font-weight: bolder;'>*</span>
+<br/>
+<input class='contact-form-email' id='ContactForm1_contact-form-email' name='email' size='30' type='text' value=''/>
+<p></p>
+Sporočilo
+<span style='font-weight: bolder;'>*</span>
+<br/>
+<textarea class='contact-form-email-message' cols='25' id='ContactForm1_contact-form-email-message' name='email-message' rows='5'></textarea>
+<p></p>
+<input class='contact-form-button contact-form-button-submit' id='ContactForm1_contact-form-submit' type='button' value='Pošlji'/>
+<p></p>
+<div style='text-align: center; max-width: 222px; width: 100%'>
+<p class='contact-form-error-message' id='ContactForm1_contact-form-error-message'></p>
+<p class='contact-form-success-message' id='ContactForm1_contact-form-success-message'></p>
+</div>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget LinkList' data-version='1' id='LinkList2'>
+<h2>Povezave</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://www.avtokampi.si/'>Avtokampi.si</a></li>
+<li><a href='http://navi-guru.blogspot.com/'>Janch's Navi blog (Navi guru)</a></li>
+<li><a href='http://www.poiplaza.com/index.php'>POI plaza</a></li>
+<li><a href='http://popotnik-gps.blogspot.com/'>Popotnik-GPS (vse za navigacije)</a></li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div id='footer-wrapper'>
+<div class='footer no-items section' id='footer'></div>
+</div>
+</div></div>
+<!-- end outer-wrapper -->
+<!--Du er ansvarlig for \xe5 melde fra til bes\xf8kende om informasjonskapslene som brukes og data som samles inn p\xe5 bloggen din. Du finner et standardvarsel i Blogger som du kan bruke p\xe5 bloggen din, og du kan enten tilpasse dette varselet eller erstatte det med din egen merknad. Se http://www.blogger.com/go/cookiechoices for flere detaljer.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Dette nettstedet bruker informasjonskapsler fra Google for \xe5 levere tjenester og analysere trafikk. IP-adressen og brukeragenten din deles med Google sammen med ytelses- og sikkerhetsstatistikk for \xe5 sikre tjenestekvalitet, generere bruksstatistikk samt oppdage og h\xe5ndtere uriktig bruk.',
+          (window.cookieOptions && cookieOptions.close) || 'Den er grei',
+          (window.cookieOptions && cookieOptions.learn) || 'Mer informasjon',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3704019819-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7XEFmPGVqijLHfKLkuW2mP-WmO_g:1733576787162';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d5947770816196851633','//mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html','5947770816196851633');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '5947770816196851633', 'title': 'Points of Interests (POI)', 'url': 'https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html', 'canonicalUrl': 'http://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html', 'homepageUrl': 'https://mb-5ja.blogspot.com/', 'searchUrl': 'https://mb-5ja.blogspot.com/search', 'canonicalHomepageUrl': 'http://mb-5ja.blogspot.com/', 'blogspotFaviconUrl': 'https://mb-5ja.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'sl', 'localeUnderscoreDelimited': 'sl', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Points of Interests (POI) - Atom\x22 href\x3d\x22https://mb-5ja.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Points of Interests (POI) - RSS\x22 href\x3d\x22https://mb-5ja.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Points of Interests (POI) - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/5947770816196851633/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Points of Interests (POI) - Atom\x22 href\x3d\x22https://mb-5ja.blogspot.com/feeds/5377155921972312334/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-3397589111901336', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/36eb93a0ea1bb211', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Pridobi povezavo', 'key': 'link', 'shareMessage': 'Pridobi povezavo', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Skupna raba v storitvi Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Skupna raba v storitvi X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Skupna raba v storitvi Pinterest', 'target': 'pinterest'}, {'name': 'E-po\u0161ta', 'key': 'email', 'shareMessage': 'E-po\u0161ta', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27sl\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Preberite ve\u010d', 'pageType': 'item', 'postId': '5377155921972312334', 'postImageThumbnailUrl': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s72-c/Sygic+GE.jpg', 'postImageUrl': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s320/Sygic+GE.jpg', 'pageName': 'Hrva\u0161ka GATSO-CORDON speedcams (2024)', 'pageTitle': 'Points of Interests (POI): Hrva\u0161ka GATSO-CORDON speedcams (2024)'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Uredi', 'linkCopiedToClipboard': 'Povezava je kopirana v odlo\u017ei\u0161\u010de.', 'ok': 'V redu', 'postLink': 'Povezava objave'}}, {'name': 'template', 'data': {'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Hrva\u0161ka GATSO-CORDON speedcams (2024)', 'description': 'Stacionarni-fiksni radarji GATSO/CORDON za naprave/aplikacije Garmin, iGO/Primo/Nextgen      Zgodovina popravkov: 01.12.2024 dodane lokacije...', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjeqoA19cgLBmxW5zYKXNDgF3pXpnAOs4sK-TcKOZsNEq36IxouUcq1TxuWHGCzL5JRmKXwAgaM6GjuwshmnYsng6B8C4eqNSEm3ZCXkEflUBGa0j1wpLVLuTiQuKz1OPXUwn2oEsP9fX/s320/Sygic+GE.jpg', 'url': 'https://mb-5ja.blogspot.com/2015/08/hrvaska-poi-2015.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 5377155921972312334}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/101915458-lbx__sl.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1964470060-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar', document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'sidebar', document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Po\u0161iljanje ...', 'contactFormMessageSentMsg': 'Va\u0161e sporo\u010dilo je bilo poslano.', 'contactFormMessageNotSentMsg': 'Sporo\u010dila ni bilo mogo\u010de poslati. Poskusite znova pozneje.', 'contactFormInvalidEmailMsg': 'Vnesite veljaven e-po\u0161tni naslov.', 'contactFormEmptyMessageMsg': 'Polje \xbbSporo\u010dilo\xab ne sme biti prazno.', 'title': 'Sporo\u010di to\u010dko POI/radar/speedcam', 'blogId': '5947770816196851633', 'contactFormNameMsg': 'Ime', 'contactFormEmailMsg': 'E-po\u0161ta', 'contactFormMessageMsg': 'Sporo\u010dilo', 'contactFormSendMsg': 'Po\u0161lji', 'contactFormToken': 'AOuZoY4waSrnODBkzACijBtTjT3_-18s2Q:1733576787163', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar', document.getElementById('LinkList2'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

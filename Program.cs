@@ -11,6 +11,7 @@ using OpenQA.Selenium.Support.UI;
 using System.Runtime.CompilerServices;
 using static System.Collections.Specialized.BitVector32;
 using OpenQA.Selenium.DevTools;
+using OpenQA.Selenium.BiDi.Modules.Script;
 
 namespace Reddit_Downloader
 {
@@ -146,14 +147,14 @@ namespace Reddit_Downloader
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
 
 
-           // Thread.Sleep(10000);
-           
+            // Thread.Sleep(10000);
+
 
             List<IWebElement> posts = new List<IWebElement>();
             List<string> imageLinks = new List<string>();
 
             long lastHeight = (long)js.ExecuteScript("return document.body.scrollHeight");
-            
+
             int i = 1;
             int imageCounter = 1;
             int videoCounter = 1;
@@ -170,12 +171,13 @@ namespace Reddit_Downloader
                     if (!posts.Contains(post)) //if its a new post we havent already processed below
                     {
                         posts.Add(post);
-                        Console.WriteLine(post.GetAttribute("content-href"));
+
                         Thread.Sleep(1000);
                         try
                         {
-                            var image = post.FindElement(By.CssSelector("img"));
-                            await FetchImage(imageLinks, post, projectRoot, imageCounter);
+                            var contentHref = post.GetAttribute("content-href");
+                            string filePath = $"{projectRoot}/images/image{imageCounter}.png";
+                            await DownloadImageAsync(contentHref, filePath);
                             imageCounter++;
                         }
                         catch
@@ -183,18 +185,11 @@ namespace Reddit_Downloader
                             Console.WriteLine("Not an image");
                             continue;
                         }
-                        try
-                        {
-                            await FetchVideo(post, projectRoot, videoCounter);
-                            videoCounter++;
-                        }
-                        catch
-                        {
 
-                        }
-                        i++;
                     }
+                    i++;
                 }
+            
                 // Check the new height of the page
                 long newHeight = (long)js.ExecuteScript("return document.body.scrollHeight");
 
