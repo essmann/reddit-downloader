@@ -19,3 +19,4 @@ C:\Users\Essmann\source\repos\Reddit-Downloader\Reddit-Downloader\bin\Debug\net8
 C:\Users\Essmann\source\repos\Reddit-Downloader\Reddit-Downloader\bin\Debug\net8.0\WebDriver.dll
 C:\Users\Essmann\source\repos\Reddit-Downloader\Reddit-Downloader\obj\Debug\net8.0\Reddit-Downloader.csproj.AssemblyReference.cache
 C:\Users\Essmann\source\repos\Reddit-Downloader\Reddit-Downloader\obj\Debug\net8.0\Reddit-D.896D570B.Up2Date
+C:\Users\Essmann\source\repos\Reddit-Downloader\Reddit-Downloader\obj\Debug\net8.0\Reddit-Downloader.sourcelink.json
